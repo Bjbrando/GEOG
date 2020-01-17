@@ -1,2 +1,0 @@
-# GEOG
-Autocorrelation_Code
